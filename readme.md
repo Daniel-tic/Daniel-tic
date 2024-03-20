@@ -36,3 +36,6 @@ Con un “imprimir” te lo digo
 Con un ciclo “for” te lo repito
 Y Con un “if” te lo ratifico
 Soy feliz, soy programador, a eso me dedico.
+
+## Hobbies
+- Dancing: ...
