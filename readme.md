@@ -37,6 +37,12 @@ Con un ciclo “for” te lo repito
 Y Con un “if” te lo ratifico
 Soy feliz, soy programador, a eso me dedico.
 
+
+
+
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+## Hobbies
+- Dancing: ...
